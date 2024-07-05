@@ -13,3 +13,7 @@
 11. HHL Algorithm
 12. Classiq Advanced Algorithms
 13. Astronomy Quantum Computer Vision.
+14. Annealing :
+    i. Vehicle Routing/ TSP
+    ii. Airplane logistics/ shipping logistics
+    iii. AI Machine Learning - Feature selection/ Prompt selection.
