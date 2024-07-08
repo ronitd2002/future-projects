@@ -25,4 +25,5 @@
 23. Quantum Algorithms for Lattice Boltzmann
 24. Quantum Tensor networks
 25. Physics Informed Machine Learning ([PINN](https://arxiv.org/abs/2207.11786), Fourier Neural Operators, Deep ONets, MeshGraphNets)
+26. [Scientific Computing for simulation](https://www.youtube.com/watch?v=R2QYmPObIaE) using AI+Quantum
 
