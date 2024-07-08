@@ -23,3 +23,4 @@
 21. Strongly correlated lattice systems
 22. Quantum random walks algorithms
 23. Quantum Algorithms for Lattice Boltzmann
+24. Quantum Tensor networks
