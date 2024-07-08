@@ -24,3 +24,4 @@
 22. Quantum random walks algorithms
 23. Quantum Algorithms for Lattice Boltzmann
 24. Quantum Tensor networks
+25. Physics Informed Machine Learning (PINN, Fourier Neural Operators, Deep ONets, MeshGraphNets)
