@@ -20,3 +20,6 @@
 18. Quantum Time Series models\ling/ QLSTM
 19. Energy Gap Estimation for Quantum energy spectra systems.
 20. Other Projects [like these](https://arxiv.org/abs/2203.17181)
+21. Strongly correlated lattice systems
+22. Quantum random walks algorithms
+23. 
