@@ -1,5 +1,10 @@
 # Future projects :
 
+## <center> Legend :</center> 
+* <font color="red">Cancelled</font> 
+* <font color="yellow">In progress</font> 
+* <font color="green">Finished</font>
+
 1. Chaotic simulation of Superconducting qubits. [appropriate software like SCQubits]
 2. Simulation of photonic quantum circuits.
 3. Perceval - Linear optics circuit, Boson Sampling
